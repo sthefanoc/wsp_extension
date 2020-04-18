@@ -1,11 +1,11 @@
 {
     "manifest_version": 2,
     "name": "Whatsapp Tools",
-    "description": "Useful tools for the most used chatting app in the world. Use our extension to listen to audios faster and be more productive with your time :)",
+    "description": "Useful tools for the most used chatting app in the world. Functionalities for better productivity.",
     "version": "0.1",
     "icons": {
         "16": "icon16.png",
-        "48": "icon48.png",
+        "48": "icon48.png", 
         "128": "icon128.png"
     },
     "content_scripts": [
