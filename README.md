@@ -6,7 +6,7 @@
 
 # WhatsApp Tools - Chrome Extension
 
-A personal website that serves as a playground to experiment with different technologies and also a way to showcase my skills and publicize my services.
+A Google Chrome extension to make WhatsApp Web better. Sometimes it is easier to communicate via audio. For some reason, WhatsApp never implemented the possibility of making audios faster. This is what this extension does.
 
 <p align="center">
   <img width="100%" alt="SthefanoC's personal website" src="/repo/WhatsApp Tools - Chrome Extension - Complete.png">
